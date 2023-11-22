@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wilmer Araya</h1>
-<h3 align="center">Student at University of Costa Rica🌟.</h3>
+<h3 align="center">Student at University of Costa Rica🌻</h3>
 
 <br>
 
