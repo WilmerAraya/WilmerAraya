@@ -8,8 +8,6 @@
 
 
 - 🌱 I’m currently learning most as posible
-- 👯 I’m looking to collaborate with other developers
-
 - 📫 How to reach me **wilmeraraya21@gmail.com**
 
 <br>
@@ -79,10 +77,7 @@
 <br>
 
 ## Some of my statistics 🚀
-[![Anurag's GitHub stats](https://github-stats-roan-xi.vercel.app/api?username=wilmeraraya)](https://github.com/wilmeraraya/github-readme-stats)
-https://vercel.com/wilmeraraya/github-stats/BtGLLQqBa5ccawWDuwy7PVUfK5nS
-https://github-stats-roan-xi.vercel.app/
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmeraraya)](https://github.com/wilmeraraya/github-readme-stats)
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=wilmeraraya&show_icons=true&theme=tokyonight)
+![AkuraDiary's Top Langs](https://github-stats-roan-xi.vercel.app/api/top-langs/?username=wilmeraraya&theme=tokyonight&layout=donut&exclude_repo=CI-0163_AnalisisDeDatos)
+<br>
+[![Anurag's GitHub stats](https://github-stats-roan-xi.vercel.app/api?username=wilmeraraya&show_icons=true&theme=tokyonight)](https://github.com/wilmeraraya/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilmeraraya&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmeraraya&theme=tokyonight&layout=compact)
