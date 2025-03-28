@@ -59,7 +59,4 @@
 <br>
 
 ## Some of my statistics 🚀
-![AkuraDiary's Top Langs](https://github-stats-roan-xi.vercel.app/api/top-langs/?username=wilmeraraya&theme=tokyonight&layout=donut&exclude_repo=CI-0163_AnalisisDeDatos)
-<br>
-[![Anurag's GitHub stats](https://github-stats-roan-xi.vercel.app/api?username=wilmeraraya&show_icons=true&theme=tokyonight)](https://github.com/wilmeraraya/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilmeraraya&theme=tokyonight" alt="mystreak"/>
